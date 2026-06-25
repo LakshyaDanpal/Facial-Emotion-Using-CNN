@@ -1,8 +1,8 @@
-# 😊 Facial Emotion Detection using CNN
+# Facial Emotion Detection using CNN
 
 A deep learning-based Facial Emotion Detection system built using a Convolutional Neural Network (CNN) and TensorFlow/Keras. The model classifies facial expressions into seven different emotions from grayscale facial images.
 
-## 📌 Project Overview
+## Project Overview
 
 This project uses a Convolutional Neural Network (CNN) to recognize human emotions from facial images. The model is trained on labeled emotion datasets and predicts one of seven emotions from a given face image.
 
@@ -18,7 +18,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize human emotio
 
 ---
 
-## 🚀 Features
+## Features
 
 - Image preprocessing and normalization
 - CNN architecture for emotion classification
@@ -30,7 +30,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize human emotio
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - Python
 - TensorFlow
@@ -42,7 +42,7 @@ This project uses a Convolutional Neural Network (CNN) to recognize human emotio
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Emotion-Detection/
@@ -98,7 +98,7 @@ pip install -r requirements.txt
 
 ---
 
-## 📦 Required Libraries
+##  Required Libraries
 
 ```text
 tensorflow
@@ -139,7 +139,7 @@ The notebook will:
 
 ---
 
-## 🧠 CNN Architecture
+##  CNN Architecture
 
 The model consists of:
 
@@ -153,7 +153,7 @@ The model consists of:
 
 ---
 
-## 📊 Model Training
+##  Model Training
 
 The training pipeline includes:
 
@@ -165,7 +165,7 @@ The training pipeline includes:
 
 ---
 
-## 📈 Evaluation
+## Evaluation
 
 The notebook visualizes:
 
@@ -178,7 +178,7 @@ The model is evaluated on the test dataset after training.
 
 ---
 
-## 💾 Model Saving
+##  Model Saving
 
 After training, the model is saved as:
 
@@ -190,7 +190,7 @@ This model can later be loaded for prediction without retraining.
 
 ---
 
-## 🔮 Prediction
+## Prediction
 
 The trained model predicts the emotion of an input face image and returns one of the seven emotion classes.
 
@@ -202,7 +202,7 @@ Predicted Emotion: Happy 😀
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Real-time emotion detection using webcam
 - Transfer Learning (ResNet, MobileNetV2)
@@ -212,7 +212,7 @@ Predicted Emotion: Happy 😀
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome.
 
@@ -229,7 +229,7 @@ This project is intended for educational and research purposes.
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 **Lakshya Setty**
 
